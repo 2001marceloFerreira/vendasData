@@ -13,7 +13,6 @@ function App() {
           </div>
         </section>
       </main>
-      <h1>hellow wordd</h1>
 
     </>
   )
